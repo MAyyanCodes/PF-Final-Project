@@ -1,0 +1,18 @@
+======================================
+         FLIGHT BOARDING PASS
+======================================
+Booking ID: 2001
+Passenger: atif 
+Phone: 0321745372
+Email: codes567@gmail.com
+
+Flight: p-k 302
+Route: lhr to spain
+Departure: 11 pm
+Arrival: 4 am
+
+Seat: Row 2, Seat 4
+Class: FIRST CLASS
+Fare: Rs. 25000
+Booked: 2026-01-09 12:55:34
+======================================

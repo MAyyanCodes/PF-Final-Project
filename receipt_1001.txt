@@ -1,0 +1,9 @@
+CINEMA BOOKING RECEIPT
+================================
+Booking ID: 1001
+Customer: hassab'
+Phone: 030
+Seat: Row 1, Column 1
+Category: VIP
+Price: Rs. 1600
+Time: 2026-01-09 10:04:32
